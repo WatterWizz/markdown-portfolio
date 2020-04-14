@@ -1,2 +1,5 @@
-# Enrique Garcia Markdown practice
+# Enrique Garcia 
+## Electrical Engineer
+### GitHub Portfolio
+
 
