@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://github.com/WatterWizz/markdown-portfolio/blob/add-images-links/78200.png)
+![Image of Goku](https://avatarfiles.alphacoders.com/782/78200.png)
